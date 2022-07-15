@@ -23,8 +23,11 @@ We must get rid of the ninth-grade reading and math scores for Thomas High Schoo
 ## How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade: 10th grade now has the highest score
 * Scores by school spending: 
-![](School_District_Analysis/Resources/Grades_by_spending)
+
+![School_District_Analysis](School_District_Analysis/Resources/Images/Grades_by_spending.JPG)
 * Scores by school size: 
-![](School_District_Analysis/Resources/Grades_by_size)
+
+![School_District_Analysis](School_District_Analysis/Resources/Images/Grades_by_size.JPG)
 * Scores by school type: 
-![](School_District_Analysis/Resources/Grades_by_type)
+
+![School_District_Analysis](School_District_Analysis/Resources/Images/Grades_by_type.JPG)
